@@ -9,11 +9,12 @@
 5. `Spc+key` equals to `LShft+key` while using `Spc` alone will yield a space as usual. (AKA SandS)
 6. There's an extra `Tab` in the last line.
 
-# How to install
+## How to install
 ```
-make hhkb:<keymap_name>:dfu HHKB_RN42_ENABLE=yes
+make hhkb:dvorak_n:dfu HHKB_RN42_ENABLE=yes
 ```
 
+## Layout
 ```
 Layer DVOR:
 ,-----------------------------------------------------------.
