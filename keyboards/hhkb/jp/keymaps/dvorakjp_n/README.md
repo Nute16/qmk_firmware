@@ -11,7 +11,7 @@
 
 ## How to install
 ```
-make hhkb:dvorak_n:dfu HHKB_RN42_ENABLE=yes
+make hhkb/jp:dvorak_n:dfu HHKB_RN42_ENABLE=yes
 ```
 
 ## Layout
